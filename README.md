@@ -1,16 +1,4 @@
-# app_calc_juros
+# Calculadora de Juros Compostos
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Esse projeto permite o calculo de juros compostos recebendo valores da aplicação atual, perído em meses, taxa de juros por mês e a aplicação mensal.
+Além disso essa aplicação possui dois formulários, permitindo a comparação dos dois investimentos para melhor escolher qual gera um maior valor de capital seja em curto ou longo prazo com uma lista de valores por mês.
