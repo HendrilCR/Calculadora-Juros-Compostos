@@ -2,7 +2,7 @@
 Este projeto é uma ferramenta para calcular juros compostos, permitindo o cálculo de diferentes cenários de investimentos. Ele recebe os valores da aplicação inicial, período em meses, taxa de juros mensal e a aplicação mensal. Além disso, o projeto conta com duas funcionalidades de comparação de investimentos, facilitando a escolha do melhor investimento, seja em curto ou longo prazo, com uma lista de valores por mês para análise.
 
 ## Como Usar
-Baixe o Projeto: Faça o download ou clone o repositório em um diretório de sua preferência.
+Baixe o Projeto: Faça o download do arquivo compactado e o descompacte em um local desejado.
 
 Importe no Visual Studio Code: Abra o projeto no Visual Studio Code ou em seu editor de preferência.
 
